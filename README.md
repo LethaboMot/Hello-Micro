@@ -1,4 +1,4 @@
-ere’s what I did for the README doc:
+Here’s what I did for the README doc:
 7:31
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Hello Microverse! project
@@ -27,8 +27,3 @@ Give a :star:️ if you like this project!
 - Learning to code is learning to create and innovate
 ## :memo: License
 This project is [MIT](./LICENSE) licensed.
-
-
-
-
-
